@@ -23,5 +23,5 @@ end
 
 def lasso
   puts "Start"
-  "Hold left arm straight"
+  puts "Hold left arm straight"
 end
