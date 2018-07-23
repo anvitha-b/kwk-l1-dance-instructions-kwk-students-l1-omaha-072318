@@ -22,6 +22,7 @@ def bob_the_reins
 end
 
 def lasso
+  puts "Do"
   puts "Raise"
   puts "Lift"
   puts "Start"
