@@ -22,6 +22,7 @@ def bob_the_reins
 end
 
 def lasso
+  puts "Lift"
   puts "Start"
   puts "Hold left arm straight"
 end
