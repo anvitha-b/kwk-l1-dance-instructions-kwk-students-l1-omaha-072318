@@ -22,4 +22,5 @@ def bob_the_reins
 end
 
 def lasso
-  
+  puts "Hold left arm straight"
+end
