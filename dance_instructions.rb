@@ -3,7 +3,7 @@ def starting_stance
 end
 
 def skip_step (left)
-  puts "lower"
+  puts "Lower"
   puts "bounce"
   puts "briefly"
 end
