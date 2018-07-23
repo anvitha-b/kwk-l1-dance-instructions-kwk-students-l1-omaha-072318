@@ -28,3 +28,7 @@ def lasso
   puts "Start"
   puts "Hold left arm straight"
 end
+
+def bust_a_move
+  puts "Bust a move"
+end
